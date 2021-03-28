@@ -1,0 +1,38 @@
+.AddProfileHeader{
+    text-align: center;
+}
+
+.center{
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 30px black;
+    //justify-content: center;
+    padding-top: 3rem;;
+    font-size: large;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+ .TextArea{
+    width: 100%;
+    min-height: 120px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 30px black;
+    border-radius: 5px;
+    resize: none;
+    font-family: sans-serif;
+    margin-top: 0.6rem;
+ }
+
+ .InputName{
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 30px black;
+    border-radius: 5px;
+    margin-top: 0.6rem;
+ }

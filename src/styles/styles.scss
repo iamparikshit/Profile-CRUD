@@ -1,0 +1,30 @@
+@import "./base/header.scss";
+@import "./base/home.scss";
+@import "./base/profileWidget.scss";
+@import "./base/profile.scss";
+@import "./base//addProfile.scss";
+body{
+    position: relative;
+    margin: 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #4568DC,#B06AB3); 
+    min-height: 100vh;
+}
+
+.Largebutton{
+        width: 100%;
+        background : #8357c8;
+        color: white;
+        padding: 0.7rem;
+        box-shadow: 5px 5px 30px black;
+    
+}
+.MediumButotn{
+    width: 50%;
+    background : #8357c8;
+    color: white;
+    padding: 0.7rem;
+    box-shadow: 5px 5px 30px black;
+    margin-bottom: 40px;
+}
